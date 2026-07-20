@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi 👋 I'm Erica Sharma
 
-<!--
-**Ericasharma/Ericasharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Science Student  
+📊 Specialization: Data Analytics
 
-Here are some ideas to get you started:
+I am passionate about building real-world applications, 
+machine learning solutions, and data-driven projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technical Skills
+
+### Programming Languages
+Java | Python | JavaScript | SQL
+
+### Data Science & Analytics
+Pandas | NumPy | Scikit-Learn | Machine Learning | NLP | Power BI
+
+### Web Development
+HTML | CSS | React.js | Node.js | Express.js
+
+### Database
+MySQL | MongoDB | PostgreSQL
+
+### Tools
+Git | GitHub | VS Code | Jupyter Notebook
+
+
+---
+
+## 💻 Featured Projects
+
+### 🌱 SmartAgriAI
+AI-based agriculture analytics platform.
+
+### 🚀 NextHire
+Career guidance and placement assistance platform.
+
+### 🌿 Plant Disease Classification
+Deep Learning based image classification project.
+
+### 📊 Agricultural Yield Prediction
+Machine Learning based data analysis project.
+
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Data Structures & Algorithms
+- Machine Learning
+- System Design
+- Cloud Technologies
+
+
+---
+
+## 🤝 Connect With Me
+
+LinkedIn:https://www.linkedin.com/in/erica-sharma-98a332297/
+
+Email: sharmaerica31@gmail.com
