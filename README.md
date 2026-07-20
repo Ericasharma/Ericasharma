@@ -1,10 +1,8 @@
 # Hi 👋 I'm Erica Sharma
 
-🎓 Final Year Computer Science Student  
-📊 Specialization: Data Analytics
-
-I am passionate about building real-world applications, 
-machine learning solutions, and data-driven projects.
+Computer Science undergraduate specializing in Data Analytics,
+with experience building machine learning projects, full-stack
+applications, and data-driven solutions.
 
 ---
 
